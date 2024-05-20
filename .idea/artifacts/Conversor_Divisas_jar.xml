@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Conversor_Divisas:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Conversor_Divisas_jar</output-path>
+    <root id="archive" name="Conversor_Divisas.jar">
+      <element id="module-output" name="Conversor_Divisas" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/google/code/gson/gson/2.10.1/gson-2.10.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/io/github/cdimascio/dotenv-java/3.0.0/dotenv-java-3.0.0.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
